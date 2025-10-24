@@ -1,0 +1,14 @@
+[project]
+name = "sentinel-core"
+version = "0.1.0"
+description = "Core shared utilities and data models for Project SENTINEL"
+authors = [{ name = "Suryakanta Subudhi" }]
+requires-python = ">=3.11"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
