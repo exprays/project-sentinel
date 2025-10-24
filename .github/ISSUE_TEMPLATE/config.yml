@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Hackathon Q&A
+    url: https://developer.nvidia.com/blog/
+    about: Submit hackathon-specific questions to the official forum.
